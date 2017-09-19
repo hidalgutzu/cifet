@@ -1,0 +1,35 @@
+<gallery>
+	<!-- set path to folder where images are stored -->
+	<setup path="estudiantil/"/>
+	<!-- set names of images and thumbnails -->
+	<item>
+		<img>01.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<img>02.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<img>03.jpg</img>
+		<caption></caption>
+	</item>
+		<item>
+		<img>04.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<img>05.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<img>06.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<img>07.jpg</img>
+		<caption></caption>
+	</item>	
+
+	
+</gallery>

@@ -1,0 +1,26 @@
+<gallery>
+	<!-- set path to folder where images are stored -->
+	<setup path="galeria/"/>
+	<!-- set names of images and thumbnails -->
+	<item>
+		<thumb>t1.jpg</thumb>
+		<img>1.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<thumb>t1.jpg</thumb>
+		<img>2.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<thumb>t1.jpg</thumb>
+		<img>3.jpg</img>
+		<caption></caption>
+	</item>
+	<item>
+		<thumb>t1.jpg</thumb>
+		<img>4.jpg</img>
+		<caption></caption>
+	</item>
+
+</gallery>
